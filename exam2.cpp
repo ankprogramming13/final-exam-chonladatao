@@ -46,7 +46,7 @@ int main() {
             }
         }else{
         break;}
-    }while(myfile.close);
+    }while("myfile.close");
 
 
 
